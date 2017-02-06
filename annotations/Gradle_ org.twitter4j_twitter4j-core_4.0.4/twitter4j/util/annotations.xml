@@ -1,0 +1,14 @@
+<root>
+    <item name='twitter4j.util.CharacterUtil boolean isExceedingLengthLimitation(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.util.CharacterUtil int count(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.util.TimeSpanConverter java.lang.String toTimeSpanString(java.util.Date) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.util.TimeSpanConverter TimeSpanConverter(java.util.Locale) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,50 @@
+<root>
+    <item name='twitter4j.json.DataObjectFactory twitter4j.Status createStatus(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.json.DataObjectFactory twitter4j.IDs createIDs(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.json.DataObjectFactory twitter4j.OEmbed createOEmbed(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.json.DataObjectFactory twitter4j.AccountTotals createAccountTotals(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.json.DataObjectFactory twitter4j.Location createLocation(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.json.DataObjectFactory twitter4j.IDs createIDs(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.json.DataObjectFactory twitter4j.SavedSearch createSavedSearch(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.json.DataObjectFactory twitter4j.Relationship createRelationship(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.json.DataObjectFactory twitter4j.Trends createTrends(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.json.DataObjectFactory twitter4j.User createUser(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.json.DataObjectFactory twitter4j.Place createPlace(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.json.DataObjectFactory twitter4j.Trend createTrend(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.json.DataObjectFactory twitter4j.Trends createTrends(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.json.DataObjectFactory twitter4j.UserList createUserList(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.json.DataObjectFactory twitter4j.Category createCategory(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.json.DataObjectFactory twitter4j.DirectMessage createDirectMessage(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

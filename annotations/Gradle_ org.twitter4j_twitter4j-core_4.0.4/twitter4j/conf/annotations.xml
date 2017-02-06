@@ -1,0 +1,167 @@
+<root>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setOAuthRequestTokenURL(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setAsyncNumThreads(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setMediaProvider(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setOAuth2TokenURL(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setUserStreamRepliesAllEnabled(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setDaemonEnabled(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationFactory twitter4j.conf.Configuration getInstance(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setOAuth2AccessToken(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setHttpProxyPort(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setApplicationOnlyAuthEnabled(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setMBeanEnabled(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setHttpProxyHost(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setOAuthAccessTokenSecret(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setOAuth2TokenType(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setOAuthAccessToken(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setPrettyDebugEnabled(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setIncludeEntitiesEnabled(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.PropertyConfiguration PropertyConfiguration(java.util.Properties, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setHttpReadTimeout(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setOAuth2Scope(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setUserStreamWithFollowingsEnabled(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setHttpStreamingReadTimeout(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setOAuthConsumerKey(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setContributingTo(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setPassword(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setHttpProxyPassword(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setOAuthConsumerSecret(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setHttpRetryCount(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setMediaProviderParameters(java.util.Properties)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setMediaProviderAPIKey(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setHttpConnectionTimeout(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setTrimUserEnabled(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setOAuthAccessTokenURL(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.PropertyConfiguration PropertyConfiguration(java.util.Properties, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setOAuth2InvalidateTokenURL(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setStreamBaseURL(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setUserStreamBaseURL(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setHttpProxyUser(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationFactory twitter4j.conf.Configuration getInstance(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setUser(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setGZIPEnabled(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setJSONStoreEnabled(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setIncludeMyRetweetEnabled(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setOAuthAuthenticationURL(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setDispatcherImpl(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setSiteStreamBaseURL(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setRestBaseURL(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setHttpRetryIntervalSeconds(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setOAuthAuthorizationURL(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationBuilder twitter4j.conf.ConfigurationBuilder setDebugEnabled(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.PropertyConfiguration PropertyConfiguration(java.util.Properties) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.conf.ConfigurationFactory twitter4j.conf.Configuration getInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

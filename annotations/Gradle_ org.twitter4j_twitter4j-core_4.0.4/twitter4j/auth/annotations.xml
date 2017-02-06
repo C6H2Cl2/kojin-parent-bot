@@ -1,0 +1,92 @@
+<root>
+    <item name='twitter4j.auth.NullAuthorization java.lang.String getAuthorizationHeader(twitter4j.HttpRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='twitter4j.auth.NullAuthorization java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.auth.OAuthAuthorization java.util.List&lt;twitter4j.HttpParameter&gt; generateOAuthSignatureHttpParams(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.auth.OAuthAuthorization java.lang.String getAuthorizationHeader(twitter4j.HttpRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.auth.OAuth2Authorization OAuth2Authorization(twitter4j.conf.Configuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.auth.OAuth2Authorization java.lang.String getAuthorizationHeader(twitter4j.HttpRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='twitter4j.auth.Authorization java.lang.String getAuthorizationHeader(twitter4j.HttpRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='twitter4j.auth.AuthorizationFactory twitter4j.auth.Authorization getInstance(twitter4j.conf.Configuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.auth.OAuthSupport twitter4j.auth.AccessToken getOAuthAccessToken()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='twitter4j.auth.OAuthAuthorization OAuthAuthorization(twitter4j.conf.Configuration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.auth.RequestToken RequestToken(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.auth.OAuthAuthorization java.lang.String encodeParameters(java.util.List&lt;twitter4j.HttpParameter&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.auth.RequestToken RequestToken(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.auth.BasicAuthorization java.lang.String getAuthorizationHeader(twitter4j.HttpRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='twitter4j.auth.OAuthSupport twitter4j.auth.AccessToken getOAuthAccessToken(twitter4j.auth.RequestToken)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='twitter4j.auth.AccessToken AccessToken(java.lang.String, java.lang.String, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.auth.OAuthSupport twitter4j.auth.AccessToken getOAuthAccessToken(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='twitter4j.auth.AccessToken AccessToken(java.lang.String, java.lang.String, long) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.auth.NullAuthorization twitter4j.auth.NullAuthorization getInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.auth.AccessToken AccessToken(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.auth.OAuthAuthorization java.util.List&lt;twitter4j.HttpParameter&gt; generateOAuthSignatureHttpParams(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.auth.AccessToken AccessToken(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.auth.OAuthAuthorization java.lang.String encodeParameters(java.util.List&lt;twitter4j.HttpParameter&gt;, java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

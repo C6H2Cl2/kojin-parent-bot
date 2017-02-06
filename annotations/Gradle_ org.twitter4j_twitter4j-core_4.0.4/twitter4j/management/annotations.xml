@@ -1,0 +1,35 @@
+<root>
+    <item name='twitter4j.management.APIStatistics java.util.Map&lt;java.lang.String,java.lang.String&gt; getMethodLevelSummariesAsString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.management.APIStatisticsOpenMBean java.lang.Object getAttribute(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.management.APIStatisticsOpenMBean javax.management.AttributeList getAttributes(java.lang.String[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.management.APIStatisticsOpenMBean java.lang.Object invoke(java.lang.String, java.lang.Object[], java.lang.String[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.management.APIStatisticsOpenMBean javax.management.MBeanInfo getMBeanInfo()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.management.APIStatisticsMBean java.util.Map&lt;java.lang.String,java.lang.String&gt; getMethodLevelSummariesAsString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='twitter4j.management.APIStatisticsOpenMBean java.lang.Object invoke(java.lang.String, java.lang.Object[], java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.management.APIStatisticsOpenMBean javax.management.AttributeList getAttributes(java.lang.String[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.management.APIStatisticsOpenMBean javax.management.openmbean.TabularDataSupport getStatistics()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='twitter4j.management.APIStatisticsOpenMBean javax.management.AttributeList setAttributes(javax.management.AttributeList)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>
