@@ -23,4 +23,5 @@ repositories {
 dependencies {
     compile "org.jetbrains.kotlin:kotlin-stdlib-jre8:$kotlin_version"
     compile "org.twitter4j:twitter4j-core:4.0.4"
+    compile "org.twitter4j:twitter4j-stream:4.0.4"
 }
